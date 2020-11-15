@@ -12,6 +12,7 @@ Agile consists of a set of values and principles, like iterative and incremental
 
 ### 3 amigos – 
 The three amigos in agile are three perspectives from which to examine an increment of work before, during, and after development. It’s important that the members taking up each of these perspectives collaborate with one another so that the work can achieve the acceptance criteria
+
 **Business** – what problem are we trying to solve?
 **Development** – how might we build a solution to solve that problem?
 **Testing** – what would happen if this occurred?
@@ -20,18 +21,21 @@ The business perspective aims to identify the requirements the product needs to 
 
 ### Scrum roles –
 The different roles involved in a project applying scrum framework:
+
 **Scrum master** – works with the scrum team to ensure proper workflow, and that the sprints get completed in time. Also ensures transparency during scrum meetings, making sure all issues are mentioned and addressed
 **Product owner** – works with end-users and customers to specify the proper requirements to give the scrum team
 **Scrum team** – members of the scrum team, developing the product. Responsible for delivering high quality work
 
 ### Scrum artefacts –
 Scrum artefacts are specifically designed to maximise transparency of key information so that everyone has the same understanding of the project requirements and progression
+
 **Product backlog** – list of all the requirements the developed product needs to fulfil
 **Sprint backlog** – list of requirements the scrum team specifies as its objective to fulfil by the end of a sprint
 **Increment** – the team must have a product increment that is potentially releasable at the end of every sprint
 
 ### Scrum ceremonies – 
 Scrum ceremonies are events that make up the cycle of a sprint:
+
 **Sprint planning** – meeting held by the start of a sprint to determine the objectives of that sprint/ the requirements to be fulfilled 
 **Daily stand-up** - daily review to ensure transparency. Members share what they've been working on and any troubles they may have encountered
 **Sprint review** – meeting at the end of a sprint where the scrum team discuss the product at the end of the sprint and evaluate it in light of the requirements set in the sprint planning
@@ -47,21 +51,26 @@ Foreign keys are used to link tables. The foreign key of table B will be the pri
 
 ### DDL, DQL, DML, DCL –
 SQL commands are usually categorised into 4 main categories:
+
 **DDL** – Data Definition Language consists of commands used to define a database:
+
 CREATE – used to create a database or its objects
 ALTER - used to alter the structure of the database
 DROP – used to delete objects from the database
 TRUNCATE – used to remove all records from a table
 
 **DQL** – Data Query Language is used to run queries:
+
 SELECT- used to retrieve data from the database
 
 **DML** – Data Manipulation Language refers to commands used to manipulate data in a database:
+
 INSERT – used to insert data into a table
 UPDATE – used to update existing data in a table
 DELETE – used to delete records in a table
 
 **DCL** – Data Control Language is the commands that deal with the rights and permission of a database system:
+
 GRANT – gives user access privileges to a database
 REVOKE – revokes a user’s access privileges to a database
 
