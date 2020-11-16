@@ -104,9 +104,9 @@ Encapsulation - refers to the private state of each object. An object will hold 
 
 Abstraction - applying abstraction is to make objects show only those features that are relevant for use by other objects, and hide the more complicated implementation code contained in each class. For instance, an object will show its public attributes and functions but not the code used to implement them. This makes it easier to communicate with objects.
 
-Inheritance - 
+Inheritance - sometimes objects are very similar with only slight differences, and it's important to avoid code repetition. So to reduce complexity and increase reusability, objects which share attributes and methods with other objects can inherit from them. the inherting class is the child class whilst the class being inherited from is the parent class. This allows objects to gain attributes and methods without having to implement the code for them again
 
-Polymorphism - 
+Polymorphism - Objects can take on more than one form depending on the context. The program will determine which meaning or usage is necessary for each execution of that object, cutting down the need to duplicate code.
 
 
 
