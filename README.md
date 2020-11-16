@@ -95,6 +95,18 @@ GRANT – gives user access privileges to a database
 REVOKE – revokes a user’s access privileges to a database
 
 
+## OOP
+### What is OOP - 
+OOP is a programming model that organises software design around objects that contain data and functions and which can be used and manipulated according to various needs. Instead pf focusing on precedures, it will look at defining classes that contain attributes and functions which can then be called and executed when an instance of the class is created. I have used OOP for a number of tasks during the course of my trainijg, for instancr when creating a calculator class than contains functions for performing arithemtic operations. I created a class that contained functions that take in arguments for add, subtract, multiply and divide, and created an instance of that class outside of it. then, using the instance of the class, I called the functions inside of it by passing in parameters on which the functions performed their respective operations.
+
+### 4 pillars
+Encapsulation - refers to the private state of each object. An object will hold data and functions inside a class, but other objects do not have permission to access that class or make chnages to it, they're only call public functions (called methods).
+
+Abstraction - applying abstraction is to make objects show only those features that are relevant for use by other objects, and hide the more complicated implementation code contained in each class. For instance, an object will show its public attributes and functions but not the code used to implement them. This makes it easier to communicate with objects.
+
+Inheritance - 
+
+Polymorphism - 
 
 
 
